@@ -1,6 +1,6 @@
-# ConnectPH Internet Services Website
+# UltraFiberX Internet Services Website
 
-A complete static website for ConnectPH, a Philippine internet service provider, built with HTML, CSS, and minimal JavaScript.
+A complete static website for UltraFiberX, a Philippine internet service provider, built with HTML, CSS, and minimal JavaScript.
 
 ## File Structure
 
@@ -150,4 +150,4 @@ A complete static website for ConnectPH, a Philippine internet service provider,
 
 ---
 
-**ConnectPH Internet Services** - Connecting the Philippines, one home at a time.
+**UltraFiberX Internet Services** - Connecting the Philippines, one home at a time.
